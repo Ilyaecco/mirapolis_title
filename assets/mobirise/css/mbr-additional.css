@@ -168,8 +168,8 @@ body {
 }
 .btn-secondary,
 .btn-secondary:active {
-  background-color: #ea4132 !important;
-  border-color: #ea4132 !important;
+  background-color: #ff5722 !important;
+  border-color: #ff5722 !important;
   color: #ffffff !important;
 }
 .btn-secondary:hover,
@@ -177,14 +177,14 @@ body {
 .btn-secondary.focus,
 .btn-secondary.active {
   color: #ffffff !important;
-  background-color: #bc2113 !important;
-  border-color: #bc2113 !important;
+  background-color: #d43300 !important;
+  border-color: #d43300 !important;
 }
 .btn-secondary.disabled,
 .btn-secondary:disabled {
   color: #ffffff !important;
-  background-color: #bc2113 !important;
-  border-color: #bc2113 !important;
+  background-color: #d43300 !important;
+  border-color: #d43300 !important;
 }
 .btn-info,
 .btn-info:active {
@@ -332,22 +332,22 @@ body {
 .btn-secondary-outline,
 .btn-secondary-outline:active {
   background: none;
-  border-color: #a51d11;
-  color: #a51d11;
+  border-color: #bb2d00;
+  color: #bb2d00;
 }
 .btn-secondary-outline:hover,
 .btn-secondary-outline:focus,
 .btn-secondary-outline.focus,
 .btn-secondary-outline.active {
   color: #ffffff;
-  background-color: #ea4132;
-  border-color: #ea4132;
+  background-color: #ff5722;
+  border-color: #ff5722;
 }
 .btn-secondary-outline.disabled,
 .btn-secondary-outline:disabled {
   color: #ffffff !important;
-  background-color: #ea4132 !important;
-  border-color: #ea4132 !important;
+  background-color: #ff5722 !important;
+  border-color: #ff5722 !important;
 }
 .btn-info-outline,
 .btn-info-outline:active {
@@ -467,7 +467,7 @@ body {
   color: #2196f3 !important;
 }
 .text-secondary {
-  color: #ea4132 !important;
+  color: #ff5722 !important;
 }
 .text-success {
   color: #f7ed4a !important;
@@ -493,7 +493,7 @@ a.text-primary:focus {
 }
 a.text-secondary:hover,
 a.text-secondary:focus {
-  color: #a51d11 !important;
+  color: #bb2d00 !important;
 }
 a.text-success:hover,
 a.text-success:focus {
@@ -1410,7 +1410,7 @@ body {
 .xdsoft_datetimepicker .xdsoft_calendar td:hover,
 .xdsoft_datetimepicker .xdsoft_timepicker .xdsoft_time_box > div > div:hover {
   color: #ffffff !important;
-  background: #ea4132 !important;
+  background: #ff5722 !important;
   box-shadow: none !important;
 }
 .cid-rF2KSXUVbj {
@@ -1473,7 +1473,7 @@ body {
   -webkit-justify-content: center;
 }
 .cid-rESOloBYd0 .card-wrapper .card-img .mbr-overlay {
-  background-color: #fcbe01;
+  background-color: #ffc107;
   display: none;
   transition: opacity .3s;
 }
@@ -1490,7 +1490,7 @@ body {
   width: 100%;
 }
 .cid-rESOloBYd0 .card-wrapper .card-box {
-  background-color: #fcbe01;
+  background-color: #ffc107;
   padding: 0 2rem 2rem 2rem;
   border-bottom-left-radius: 0;
   border-bottom-right-radius: 0;
